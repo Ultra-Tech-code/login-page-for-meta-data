@@ -103,17 +103,23 @@ input[type=submit]{
     img{
         width: 185px;
     }
+    #form-div{
+        width: 80%;
+    }
     h1{
         margin: 10px ; 
         font-size: 24px;
     }
     p{
-        width: 250px;
+        width: 100%;
         padding: 0px 5px;
         margin-top: 0px;
         margin-bottom: 20px;
         font-size: 18px;
         text-align: center;
         font-weight: 600;
+    }
+    .create-acct{
+        width: 100%;
     }
 }
